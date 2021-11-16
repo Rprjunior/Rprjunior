@@ -1,4 +1,5 @@
-## Hello World! Eu sou o Júnior Pereira 
+## Hello World! Eu sou o Júnior Pereira
+Atualmente estou estudando JavaScript / HTML / CSS
 
 <div align="center">
   <a href="https://github.com/rprjunior">
