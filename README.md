@@ -3,8 +3,8 @@ Atualmente estou estudando JavaScript / HTML / CSS
 
 <div align="center">
   <a href="https://github.com/rprjunior">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rprjunior&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rprjunior&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rprjunior&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rprjunior&layout=compact&langs_count=7&theme=default"/>
     
   ##
     
