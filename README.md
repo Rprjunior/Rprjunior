@@ -1,5 +1,6 @@
 ## Hello World! Eu sou o Júnior Pereira
-Atualmente estou estudando JavaScript / HTML / CSS
+Cursando Superior em Desenvolvimento WEB 
+Estudando fora do curso JavaScript / HTML / CSS
 
 <div align="center">
   <a href="https://github.com/rprjunior">
