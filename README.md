@@ -1,3 +1,5 @@
+<strong>GitHub passando por atualizações, todo conteúdo foi deletado para ser refeito.</strong>
+
 ## Hello World! Eu sou o Júnior Pereira! Bem vindo ao meu espaço. 😄
 
 💖 Estudante de programação e apaixonado por tecnologia.
