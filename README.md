@@ -1,4 +1,4 @@
-<strong>GitHub passando por atualizações, todo conteúdo foi deletado para ser refeito.</strong>
+<strong>GitHub passando por atualizações, todo conteúdo foi deletado para renovar.</strong>
 
 ## Hello World! Eu sou o Júnior Pereira! Bem vindo ao meu espaço. 😄
 
